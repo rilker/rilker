@@ -1,6 +1,6 @@
-Olá, Meu Nome é Rilker!
+Olá, meu nome é Rilker!
 
-Sou um desenvolvedor apaixonado por tecnologia, e adoro criar soluções inovadoras para problemas complexos. Tenho experiência em várias linguagens de programação e estou sempre em busca de aprender mais.
+Sou um entusiasta da tecnologia e um apaixonado por programação em Python, sempre em busca de aprimorar meus conhecimentos e habilidades nesse campo dinâmico e em constante evolução. Estou empenhado em aprender e crescer profissionalmente,
 <!-- Cartão de estatísticas de linguagem -->
 <div>
 	<a href="#">
