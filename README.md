@@ -1,6 +1,9 @@
 Olá, meu nome é Rilker!
 
-Sou um entusiasta da tecnologia e um apaixonado por programação em Python, sempre em busca de aprimorar meus conhecimentos e habilidades nesse campo dinâmico e em constante evolução. Estou empenhado em aprender e crescer profissionalmente,
+Sou um programador Front-End apaixonado por tecnologia e desenvolvimento web. Tenho interesse em criar interfaces modernas, funcionais e responsivas, sempre buscando aprimorar meus conhecimentos e acompanhar as novas tecnologias do mercado.
+
+Estou constantemente aprendendo e desenvolvendo minhas habilidades em programação, com o objetivo de crescer profissionalmente e me tornar um desenvolvedor cada vez mais completo.
+
 <!-- Cartão de estatísticas de linguagem -->
 <div>
 	<a href="#">
